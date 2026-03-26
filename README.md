@@ -29,7 +29,7 @@
 
 - **Email:** [vadim.matveev.qa@gmail.com]
 - **Telegram:** [@VadimMQA]
-- **GitHub:** [profile link]
+- **GitHub:** [(https://github.com/VadimMQA)]
 <!--
 **VadimMQA/VadimMQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
