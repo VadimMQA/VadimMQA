@@ -23,7 +23,7 @@
 | Project - Яндекс.Метро (Android) | Mobile Android testing after refactoring | Android Studio, emulators, regression |
 | Project - Яндекс.Прилавок (Api) | Backend API testing | Postman, Apidoc, checklists |
 | Data Analysis | SQL queries, investment data analysis | JOINs, aggregations, filtering |
-| [Yandex.Scooter](#) | Comprehensive testing (web + Android + API) | Full testing stack |
+| Project - Яндекс.Самокат (Web, Android, API) | Comprehensive testing (web + Android + API) | Full testing stack |
 
 ### 📫 Contact
 
