@@ -1,8 +1,5 @@
 # Mesto — Регрессионное тестирование и ретест
 
-![Testing](https://img.shields.io/badge/QA-Manual%20Testing-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ## 📖 О проекте
 
 **Mesto** — веб-приложение для работы с фотографиями (интерактивная страница с возможностью редактирования профиля, добавления и удаления фотографий, лайков).
