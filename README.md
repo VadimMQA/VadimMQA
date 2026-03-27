@@ -21,8 +21,8 @@
 | Project - Яндекс.Маршруты | Test analysis, functional testing of validation & calculations | Equivalence partitioning, boundary values, test cases |
 | Project - Каршеринг (Яндекс.Маршруты) | Mockup analysis, cross-browser testing | Figma, checklists, DevTools, reports |
 | Project - Яндекс.Метро (Android) | Mobile Android testing after refactoring | Android Studio, emulators, regression |
-| [Yandex.Counter](#) | Backend API testing | Postman, Apidoc, checklists |
-| [Data Analysis](#) | SQL queries, investment data analysis | JOINs, aggregations, filtering |
+| Project - Яндекс.Прилавок (Api) | Backend API testing | Postman, Apidoc, checklists |
+| Data Analysis | SQL queries, investment data analysis | JOINs, aggregations, filtering |
 | [Yandex.Scooter](#) | Comprehensive testing (web + Android + API) | Full testing stack |
 
 ### 📫 Contact
