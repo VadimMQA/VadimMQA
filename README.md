@@ -18,7 +18,7 @@
 | Project | What I Tested | Key Skills |
 |---------|---------------|------------|
 | Project - Mesto (web) | Regression testing of web app | Regression, retest, bug reports |
-| [Yandex.Routes](#) | Test analysis, functional testing of validation & calculations | Equivalence partitioning, boundary values, test cases |
+| Project - Яндекс.Маршруты | Test analysis, functional testing of validation & calculations | Equivalence partitioning, boundary values, test cases |
 | [Yandex.Routes (car sharing)](#) | Mockup analysis, cross-browser testing | Figma, checklists, DevTools, reports |
 | [Yandex.Metro](#) | Mobile Android testing after refactoring | Android Studio, emulators, regression |
 | [Yandex.Counter](#) | Backend API testing | Postman, Apidoc, checklists |
